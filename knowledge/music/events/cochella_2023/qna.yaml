@@ -1,0 +1,19 @@
+created_by: Tayyab Riaz
+domain: music
+seed_examples: coachella_2023
+- answer: coachella_2023 was a music festival that took place over two weeks ago in mid-april 2023.
+  question: What is coachella_2023 and where it took place?
+- answer: singers staged in coachella_2023 are Bad Bunny, Gorillaz, Burna Boy, Becky G and backpink etc.
+  question: which sings staged in coachella_2023?
+- answer: coachella_2023 last for three days Friday, Saturday and Sunday.
+  question: how long does coachella_2023 last?
+- answer:  Special guests for coachella_2023 were The Breeders and BRATTY.
+  question: Who were the spscial guests for coachella_2023?
+- answer: coachella_2023 cost over US$133,000.
+  question: how much does coachella_2023 cost?
+task_description: 'coachella_2023'
+document: coachella_2023_tayyab
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: 7294fab8567ef650eec43c5fcfb59701fb9287ba
+ patterns:
+   - coachella_2023.md
